@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="SimpleGUI">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/starter.zip!/" />
+      <root url="jar://$PROJECT_DIR$/DrapGUI.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
